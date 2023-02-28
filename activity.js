@@ -1,4 +1,4 @@
-let sinigang
+let favFood = "sinigang"
 
 let sum = 150 + 9
 
@@ -18,5 +18,3 @@ let b = prompt("Enter num 2: ")
 
 var qoutient = Math.floor(a/b)
 console.log("The result of the division is: " + qoutient)
-
-
